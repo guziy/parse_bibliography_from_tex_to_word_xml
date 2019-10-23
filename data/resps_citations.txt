@@ -1,0 +1,388 @@
+%Type = Inproceedings
+\bibitem[{Abraham et~al.(1999)Abraham, Parkes and Bowyer}]{Abraham:1999}
+\bibinfo{author}{Abraham, J.}, \bibinfo{author}{Parkes, G.},
+  \bibinfo{author}{Bowyer, P.}, \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{The transition of the "{S}axby {G}ale" into an
+  extratropical storm}, in: \bibinfo{booktitle}{23rd Conference on Hurricanes
+  and Tropical Meteorology}, \bibinfo{organization}{American Meteorological
+  Society}, \bibinfo{address}{Dallas, TX}. pp. \bibinfo{pages}{795--798}.
+%Type = PhD Thesis
+\bibitem[{Bernier(2005)}]{Bernier:2005}
+\bibinfo{author}{Bernier, N.B.}, \bibinfo{year}{2005}
+\newblock \bibinfo{title}{Annual and seasonal extreme sea levels in the northwest
+  {A}tlantic: {H}indcasts over the last 40 years and projections for the next
+  century}, \bibinfo{type}{Ph.D. thesis}, \bibinfo{school}{Dalhousie University}, \bibinfo{address}{Halifax, NS, Canada}.
+%Type = Article
+\bibitem[{Bernier and Thompson(2006)}]{Bernier:2006}
+\bibinfo{author}{Bernier, N.B.}, \bibinfo{author}{Thompson, K.R.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Predicting the frequency of storm surges and extreme
+  sea levels in the {N}orthwest {A}tlantic}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research-Oceans}
+  \bibinfo{volume}{111}, \bibinfo{pages}{C10009, doi:10.1029/2005JC003168}.
+%Type = Article
+\bibitem[{Bernier and Thompson(2007)}]{Bernier:2007b}
+\bibinfo{author}{Bernier, N.B.}, \bibinfo{author}{Thompson, K.R.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Tide-surge interaction off the east coast of {C}anada
+  and northeastern {U}nited {S}tates}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research-Oceans}
+  \bibinfo{volume}{112}, \bibinfo{pages}{C06008, doi:10.1029/2006JC003793}.
+%Type = Article
+\bibitem[{Bernier and Thompson(2010)}]{Bernier:2010}
+\bibinfo{author}{Bernier, N.B.}, \bibinfo{author}{Thompson, K.R.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Tide and surge energy budgets in eastern {C}anadian and
+  northeast {US} waters}.
+\newblock \bibinfo{journal}{Continental Shelf Research} \bibinfo{volume}{30},
+  \bibinfo{pages}{353--364}.
+
+
+%Type = Technical note
+\bibitem[{Bernier et~al.(2018)}]{Bernier:2018} \bibinfo{author}{Bernier, N.B.}, \bibinfo{author}{Pouliot, B.},  \bibinfo{author}{Huziy, O.} \bibinfo{year}{2018}
+  \newblock \bibinfo{title}{Regional Deterministic storm Surge Prediction System (RDSPS)}, \bibinfo{type}{Technical note}, \bibinfo{organization}{Canadian Meteorological Centre},
+
+
+%Type = Article
+\bibitem[{Blackadar(1962)}]{Blackadar:1962}
+\bibinfo{author}{Blackadar, A.K.}
+  \bibinfo{year}{1962}.
+\newblock \bibinfo{title}{The vertical distribution of wind and turbulent exchange in a neutral atmosphere}.
+\newblock \bibinfo{journal}{JGR}
+  \bibinfo{volume}{62}, \bibinfo{pages}{3095--3102}.
+%Type = Phdthesis
+\bibitem[{Bobanovi\'{c}(1997)}]{Bobanovic:1997}
+\bibinfo{author}{Bobanovi\'{c}, J.}, \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{Barotropic circulation variability on {C}anadian
+  {A}tlantic {S}helves}. \bibinfo{type}{Ph.D. thesis}, \bibinfo{school}{Dalhousie University}, \bibinfo{address}{Halifax, NS, Canada}.
+%Type = Article
+\bibitem[{Bobanovi\'{c} et~al.(2006)Bobanovi\'{c}, Thompson, Desjardins and
+  Ritchie}]{Bobanovic:2006}
+\bibinfo{author}{Bobanovi\'{c}, J.}, \bibinfo{author}{Thompson, K.R.},
+  \bibinfo{author}{Desjardins, S.}, \bibinfo{author}{Ritchie, H.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Forecasting storm surges along the {E}ast {C}oast of
+  {C}anada and the {N}ortheastern {US}: the storm of 21 {J}anuary 2000}.
+\newblock \bibinfo{journal}{Atmosphere-Ocean} \bibinfo{volume}{44},
+  \bibinfo{pages}{151--161}.
+%Type = Article
+\bibitem[{Bougeault and Lacarr\`{e}re(1989)}]{Bougeault:1989}
+\bibinfo{author}{Bougeault, P.}, \bibinfo{author}{Lacarr\`{e}re, P.},
+  \bibinfo{year}{1989}.
+\newblock \bibinfo{title}{Parameterization of orography-induced turbulence in a mesobeta-model}.
+\newblock \bibinfo{journal}{Monthly Weather Review} \bibinfo{volume}{117},
+  \bibinfo{pages}{1872--1890}.
+%Type = Article
+\bibitem[{Charney and Phillips(1953)}]{Charney:1953}
+\bibinfo{author}{Charney, J.G.}, \bibinfo{author}{Phillips, N.A.},
+  \bibinfo{year}{1953}.
+\newblock \bibinfo{title}{Numerical integration of the quasigeostrophic
+  equations for barotropic and simple baroclinic flows}.
+\newblock \bibinfo{journal}{J.\ Meteor.} \bibinfo{volume}{10},
+  \bibinfo{pages}{71--99}.
+%Type = Article
+\bibitem[{Charron et~al.(2010)}]{Charron:2010}
+\bibinfo{author}{Charron, M.}, \bibinfo{author}{Pellerin, G.}, \bibinfo{author}{Spacek, L.}, \bibinfo{author}{Houtekamer, P.L.},  \bibinfo{author}{Gagnon, N.}, \bibinfo{author}{Mitchell, H.}, \bibinfo{author}{Michelin, L.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Toward Random Sampling of Model Error in the {C}anadian Ensemble Prediction System}.
+\newblock \bibinfo{journal}{Monthly Weather Review} \bibinfo{volume}{138},
+  \bibinfo{pages}{1877--1901}.
+%Type = Techreport
+\bibitem[{CMC(2013a)}]{Buehner:2013}
+\bibinfo{author}{CMC}, \bibinfo{year}{2013a}.
+\newblock \bibinfo{title}{Improvements to the {G}lobal {D}eterministic {P}rediction
+  {S}ystem ({GDPS}) (from version 2.2.2 to 3.0.0), and related changes to the
+  {R}egional {D}eterministic {P}rediction {S}ystem ({RDPS}) (from version 3.0.0 to
+  3.1.0)}.
+\newblock \bibinfo{type}{Technical Report}. Canadian Meteorological Centre of
+  Environment Canada.
+  \bibinfo{address}{http://collaboration.cmc.ec.gc.ca/cmc/cmoi/product$\_$guide/docs/ changes$\_$e.html$\#$20130213$\_$gdps}.
+%Type = Article
+\bibitem[{Chen et~al.(2013)Chen, Beardsley,  Luettich~Jr, Westerink, Wang, Perrie, Xu, Donahue, Qi, Lin, Zhao, Kerr, Meng, Toulany}]{Chen:2013}
+\bibinfo{author}{Chen, C.}, \bibinfo{author}{Beardsley, R.}, \bibinfo{author}{Luettich~Jr, R.A.},  \bibinfo{author}{Westerink, H.H.},  \bibinfo{author}{Wang, H.},  \bibinfo{author}{Perrie, W.}  \bibinfo{author}{Xu, Q.}, \bibinfo{author}{Donahue, A.S.}, \bibinfo{author}{Qi, J.}, \bibinfo{author}{Lin, H.}, \bibinfo{author}{Zhao, L.},  \bibinfo{author}{Kerr, P.C.}, \bibinfo{author}{Meng, Y.}, \bibinfo{author}{Toulany, B.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Extratropical storm inundation testbed: {I}ntermodel comparisons in the {S}cituate, {M}assachusetts}
+\newblock \bibinfo{journal}{JGR-Oceans}, \bibinfo{volume}{118},\bibinfo{pages}{5054--5073}.
+\newblock \DOIprefix\doi{doi:10.1002/jgrc.20397}
+%Type = Techreport
+\bibitem[{CMC(2013b)}]{Gagnon:2013}
+\bibinfo{author}{CMC}, \bibinfo{year}{2013b}.
+\newblock \bibinfo{title}{Improvements to the {G}lobal {E}nsemble {P}rediction {S}ystem
+  ({GEPS}) from version 2.0.3 to version 3.0.0}.
+\newblock \bibinfo{type}{Technical Report}. Canadian Meteorological Centre of
+  Environment Canada.
+  \bibinfo{address}{http://collaboration.cmc.ec.gc.ca/cmc/cmoi/product$\_$guide/docs/ changes$\_$e.html$\#$20130213$\_$geps}.
+
+
+%Type = Article
+\bibitem[{C\^{o}t\'{e} et~al.(1998a)C\^{o}t\'{e}, Desmarais, Gravel,
+  M\'{e}thot, Patoine, Roch and Staniforth}]{Cote:1998b}
+\bibinfo{author}{C\^{o}t\'{e}, J.}, \bibinfo{author}{Desmarais, J.},
+  \bibinfo{author}{Gravel, S.}, \bibinfo{author}{M\'{e}thot, A.},
+  \bibinfo{author}{Patoine, A.}, \bibinfo{author}{Roch, M.},
+  \bibinfo{author}{Staniforth, A.}, \bibinfo{year}{1998}a.
+\newblock \bibinfo{title}{The operational {CMC-MRB} {G}lobal {E}nvironmental
+  {M}ultiscale {(GEM)} model: {P}art {II} - {R}esults}.
+\newblock \bibinfo{journal}{Monthy Weather Review} \bibinfo{volume}{126},
+  \bibinfo{pages}{1397--1418}.
+%Type = Article
+\bibitem[{C\^{o}t\'{e} et~al.(1998b)C\^{o}t\'{e}, Gravel, M\'{e}thot, Patoine,
+  Roch and Staniforth}]{Cote:1998a}
+\bibinfo{author}{C\^{o}t\'{e}, J.}, \bibinfo{author}{Gravel, S.},
+  \bibinfo{author}{M\'{e}thot, A.}, \bibinfo{author}{Patoine, A.},
+  \bibinfo{author}{Roch, M.}, \bibinfo{author}{Staniforth, A.},
+  \bibinfo{year}{1998}b.
+\newblock \bibinfo{title}{The operational {CMC-MRB} {G}lobal {E}nvironmental
+  {M}ultiscale ({GEM}) model: {P}art {I} - {D}esign considerations and
+  formulation}.
+\newblock \bibinfo{journal}{Monthy Weather Review} \bibinfo{volume}{126},
+  \bibinfo{pages}{1373--1395}.
+%Type = Article
+\bibitem[{Daniel et~al.(2009)Daniel, Haie and Aubail}]{Daniel:2009}
+\bibinfo{author}{Daniel, P.}, \bibinfo{author}{Haie, B.},
+  \bibinfo{author}{Aubail, X.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Operational forecasting of tropical cyclones storm
+  surges at {M}eteo-{F}rance}.
+\newblock \bibinfo{journal}{Marine Geodesy} \bibinfo{volume}{32},
+  \bibinfo{pages}{233--242}.
+\newblock \DOIprefix\doi{10.1080/01490410902869649}.
+%Type = Article
+\bibitem[{Davies and Flather(1978)}]{Davies:1978}
+\bibinfo{author}{Davies, A.M.}, \bibinfo{author}{Flather, R.A.},
+  \bibinfo{year}{1978}.
+\newblock \bibinfo{title}{Application of numerical models of the north west
+  {E}uropean continental shelf and the {N}orth {S}ea to the computation of the
+  storm surges of {N}ovember to {D}ecember 1973}.
+\newblock \bibinfo{journal}{Deutsche Hydrographische Zeitschrift
+  Erg\"{a}nzungsheft} .
+
+  % GEPS-6.0.0
+  \bibitem[Deng et~al.(2019)]{Deng:2019}
+    \bibinfo{author}{Deng, X.}, \bibinfo{year}{2019}.
+    \newblock \bibinfo{title}{Global Ensemble Prediction System (GEPS), update from version 5.0.0 to version 6.0.0}.
+    \newblock \bibinfo{type}{Technical Report}. Canadian Meteorological Centre of Environment Canada.
+      \bibinfo{address}{\url{http://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/technote_geps-600_e.pdf}}.
+
+  %Type = Technical note
+  \bibitem[{Deng and Gagnon(2018)}]{Deng:2018} \bibinfo{author}{Deng, X.-X}, \bibinfo{author}{Gagnon, N.}, \bibinfo{year}{2018}
+  \newblock \bibinfo{title}{Global Ensemble Prediction System (GEPS) Update from version 4.3.0 to version 5.0.0}, \bibinfo{type}{Technical note}, \bibinfo{organization}{Canadian Meteorological Centre},
+  \newblock \bibinfo{url}{\url{http://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_geps-500_20180918_e.pdf}}.
+
+%Type = Article
+\bibitem[{Flather(2000)}]{Flather:2000}
+\bibinfo{author}{Flather, R.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{Existing operational oceanography}.
+\newblock \bibinfo{journal}{Coastal Engineering} \bibinfo{volume}{41},
+  \bibinfo{pages}{13--40}.
+\newblock \DOIprefix\doi{10.1016/S0378-3839(00)00025-9}.
+%Type = Article
+\bibitem[{Flowerdew et~al.(2010)Flowerdew, Horsburgh, Wilson and
+  Mylne}]{Flowerdew:2010}
+\bibinfo{author}{Flowerdew, J.}, \bibinfo{author}{Horsburgh, K.},
+  \bibinfo{author}{Wilson, C.}, \bibinfo{author}{Mylne, K.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Development and evaluation of an ensemble foreacsting
+  system for coastal storm surges}.
+\newblock \bibinfo{journal}{Quart.\ J.\ Roy.\ Meteor.\ Soc.}
+  \bibinfo{volume}{136}, \bibinfo{pages}{1444--1456}.
+%Type = Article
+\bibitem[{Flowerdew et~al.(2013)Flowerdew, Mylne, Jones and
+  Titley}]{Flowerdew:2013}
+\bibinfo{author}{Flowerdew, J.}, \bibinfo{author}{Mylne, K.},
+  \bibinfo{author}{Jones, C.}, \bibinfo{author}{Titley, H.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Extending the forecast range of the {UK} storm surge
+  ensemble}.
+\newblock \bibinfo{journal}{Quart.\ J.\ Roy.\ Meteor.\ Soc.}
+  \bibinfo{volume}{139}, \bibinfo{pages}{184--197}.
+\newblock \DOIprefix\doi{10.1002/qj.1950}.
+%Type = Article
+\bibitem[{Geleyn(1985)}]{Geleyn:1985}
+\bibinfo{author}{Geleyn, J.-F.}
+  \bibinfo{year}{1985}.
+\newblock \bibinfo{title}{On a simple, parameter-free partition between moistening and precipitation in the {K}uo scheme}.
+\newblock \bibinfo{journal}{Monthly Weather Review}
+  \bibinfo{volume}{113}, \bibinfo{pages}{405--407}.
+%Type = Book
+\bibitem[{Gill(1982)}]{Gill:1982}
+\bibinfo{author}{Gill, A.E.}, \bibinfo{year}{1982}.
+\newblock \bibinfo{title}{{A}tmosphere-{O}cean {D}ynamics}. volume
+  \bibinfo{volume}{30 International Geophysics Series}.
+\newblock \bibinfo{publisher}{Academic Press}.
+%Type = Article
+\bibitem[{Girard et~al.(2013)Girard, Plante, Desgagn\'{e}, McTaggart-Cowan,
+  Cot\'{e}, Charron, Gravel, Lee, Patoine, Qaddouri, Roch, Spacek, Tanguay,
+  Vaillancourt and Zadra}]{Girard:2013}
+\bibinfo{author}{Girard, C.}, \bibinfo{author}{Plante, A.},
+  \bibinfo{author}{Desgagn\'{e}, M.}, \bibinfo{author}{McTaggart-Cowan, R.},
+  \bibinfo{author}{Cot\'{e}, J.}, \bibinfo{author}{Charron, M.},
+  \bibinfo{author}{Gravel, S.}, \bibinfo{author}{Lee, V.},
+  \bibinfo{author}{Patoine, A.}, \bibinfo{author}{Qaddouri, A.},
+  \bibinfo{author}{Roch, M.}, \bibinfo{author}{Spacek, L.},
+  \bibinfo{author}{Tanguay, M.}, \bibinfo{author}{Vaillancourt, P.},
+  \bibinfo{author}{Zadra, A.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Staggered vertical discretization of the canadian
+  environmental multiscale {(GEM)} model using a coordinate of the
+  log-hydrostatic-pressure type}.
+\newblock \bibinfo{journal}{Monthly Weather Review}
+  \DOIprefix\doi{10.1175/MWR-D-13-00255.1}.
+%Type = Article
+\bibitem[{Hamill(2001)}]{Hamill:2001}
+\bibinfo{author}{Hamill, T.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{Interpretation of rank histograms for verifying
+  ensemble forecasts}.
+\newblock \bibinfo{journal}{Monthly Weather Review} \bibinfo{volume}{129},
+  \bibinfo{pages}{550--560}.
+%Type = Article
+\bibitem[{Houtekamer et~al.(2014)Houtekamer, Deng, Mitchell, Baek and
+  Gagnon}]{Houtekamer:2014}
+\bibinfo{author}{Houtekamer, P.}, \bibinfo{author}{Deng, D.},
+  \bibinfo{author}{Mitchell, H.}, \bibinfo{author}{Baek, S.},
+  \bibinfo{author}{Gagnon, N.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Higher resolution in an operational {E}nsemble {K}alman
+  {F}ilter}.
+\newblock \bibinfo{journal}{Monthly Weather Review}
+  \DOIprefix\doi{10.1175/MWR-D-13-00138.1}., \bibinfo{volume}{142},
+  \bibinfo{pages}{1143--1162}.
+
+%Type = Article
+\bibitem[{Howarth(1998)}]{Howarth:1998}
+\bibinfo{author}{Howarth, J.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{The effect of stratification on tidal current
+  profiles}.
+\newblock \bibinfo{journal}{Continental Shelf Research} \bibinfo{volume}{18},
+  \bibinfo{pages}{1235--1254}.
+%Type = Article
+\bibitem[{Ji et~al.(2010)Ji, {Aikman~III} and Lozano}]{Ji:2010}
+\bibinfo{author}{Ji, M.}, \bibinfo{author}{{Aikman~III}, F.},
+  \bibinfo{author}{Lozano, C.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Toward improved operational surge and inundation
+  forecasts and coastal warnings}.
+\newblock \bibinfo{journal}{Natural Hazards}, \bibinfo{volume}{53},
+  \bibinfo{pages}{195--203}.
+\newblock \DOIprefix\doi{10.1007/s11069-009-9414-z}.
+%Type = Article
+\bibitem[{Kain and Fritsch(1993)}]{Kain:1993}
+\bibinfo{author}{Kain, J.S.}, \bibinfo{author}{Fritsch, J.M.},
+  \bibinfo{year}{1993}.
+\newblock \bibinfo{title}{Convective parameterization for mesoscale models: {T}he {K}ain-{F}ritsch scheme.  The representation of Cumulus Convection in Numerical Models}.
+\newblock \bibinfo{journal}{Meteor. Monogr. AMS},\bibinfo{volume}{46},\bibinfo{pages}{165--170}.
+%Type = Article
+\bibitem[{Lane et~al.(2009)Lane, Walters, Gillibrand and Uddstrom}]{Lane:2009}
+\bibinfo{author}{Lane, E.}, \bibinfo{author}{Walters, R.},
+  \bibinfo{author}{Gillibrand, P.}, \bibinfo{author}{Uddstrom, M.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Operational forecasting of sea level height using an
+  unstructured grid ocean model}.
+\newblock \bibinfo{journal}{Ocean Modelling} \bibinfo{volume}{28},
+  \bibinfo{pages}{88--96}.
+\newblock \DOIprefix\doi{10.1016/j.ocemod.2008.11.004}.
+%Type = Inbook
+\bibitem[{Lowe et~al.(2010)Lowe, Woodworth, Knutson, McDonald, McInnes, Woth,
+  von Storch, Wolf, Swail, Bernier, Gulev, Horsburgh, Unnikrishnan, Hunter and
+  Weisse}]{Lowe:2010}
+\bibinfo{author}{Lowe, J.}, \bibinfo{author}{Woodworth, P.},
+  \bibinfo{author}{Knutson, T.}, \bibinfo{author}{McDonald, R.},
+  \bibinfo{author}{McInnes, K.}, \bibinfo{author}{Woth, K.},
+  \bibinfo{author}{von Storch, H.}, \bibinfo{author}{Wolf, J.},
+  \bibinfo{author}{Swail, V.}, \bibinfo{author}{Bernier, N.},
+  \bibinfo{author}{Gulev, S.}, \bibinfo{author}{Horsburgh, K.},
+  \bibinfo{author}{Unnikrishnan, A.}, \bibinfo{author}{Hunter, J.},
+  \bibinfo{author}{Weisse, R.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Understanding sea-level rise and variability}.
+  \bibinfo{publisher}{Wiley-Blackwell}. chapter \bibinfo{chapter}{11: Past and
+  Future changes in extreme sea levels and waves}.
+\newblock pp. \bibinfo{pages}{326--375}.
+%Type = Manual
+\bibitem[{Madec(2008)}]{Madec:2008}
+\bibinfo{author}{Madec, G.}, \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{NEMO ocean engine}.
+\newblock \bibinfo{organization}{Note du Pole de Mod\'{e}lisation, {I}nstitut
+  {P}ierre-{S}imon {L}aplace ({IPSL}), {F}rance}.
+  \bibinfo{address}{http://www.nemo-ocean.eu/About-NEMO/Reference-manuals}.
+%Type = Techreport
+\bibitem[{Mellor(1998)}]{Mellor:1998}
+\bibinfo{author}{Mellor, G.L.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{Users Guide for a Three-Dimensional, primitive
+  equation, numerical ocean model}.
+\newblock \bibinfo{type}{Technical Report}. Princeton University.
+  \bibinfo{address}{Princeton, NJ, 08544-0710}.
+%Type = Article
+\bibitem[{Ohashi et~al.(2009)Ohashi, Sheng, Thompson, Hannah and
+  Ricthie}]{Ohashi:2009}
+\bibinfo{author}{Ohashi, K.}, \bibinfo{author}{Sheng, J.},
+  \bibinfo{author}{Thompson, K.}, \bibinfo{author}{Hannah, C.},
+  \bibinfo{author}{Ricthie, H.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Effect of stratification on tidal circulation over
+  the {S}cotian {S}helf and {G}ulf of {S}t. {L}awrence: {A} numerical study
+  using a three dimensional shelf circulation model}.
+\newblock \bibinfo{journal}{Ocean Dynamics} \bibinfo{volume}{59},
+  \bibinfo{pages}{809--825}.
+%Type = Inproceedings
+\bibitem[{Parkes et~al.(1997)Parkes, Ketch and O'Reilley}]{Parkes:1997}
+\bibinfo{author}{Parkes, G.S.}, \bibinfo{author}{Ketch, L.A.},
+  \bibinfo{author}{O'Reilley, C.T.}, \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{Storm surge events in the maritimes}, in:
+  \bibinfo{booktitle}{Procedures of the Canadian Coastal Conference}, pp.
+  \bibinfo{pages}{115--129}.
+%Type = Article
+\bibitem[{Pawlowicz et~al.(2002)Pawlowicz, Beardsley and
+  Lentz}]{Pawlowicz:2002}
+\bibinfo{author}{Pawlowicz, R.}, \bibinfo{author}{Beardsley, B.},
+  \bibinfo{author}{Lentz, S.}, \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{Classical tidal harmonic analysis including error
+  estimates in {MATLAB} using {T}$\_${TIDE}}.
+\newblock \bibinfo{journal}{Computers and Geosciences} \bibinfo{volume}{28},
+  \bibinfo{pages}{929--937}.
+%Type = Inproceedings
+\bibitem[{Rappaport and Ruffman(1999)}]{Rappaport:1999}
+\bibinfo{author}{Rappaport, E.}, \bibinfo{author}{Ruffman, A.},
+  \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{The catastrophic 1775 hurricane(s): The search for
+  data and understanding}, in: \bibinfo{booktitle}{23rd Conference on
+  Hurricanes and Tropical Meteorology}, \bibinfo{organization}{American
+  Meteorological Society}, \bibinfo{address}{Dallas, TX}. pp.
+  \bibinfo{pages}{787--790}.
+%Type = Article
+\bibitem[{Shan et~al.(2011)Shan, Sheng, Thompson and
+  Greenberg}]{Shan:2011}
+\bibinfo{author}{Shan, S.}, \bibinfo{author}{Sheng, J.},
+  \bibinfo{author}{Thompson, K.R.}, \bibinfo{author}{Greenberg, D.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Simulating the three-dimensional circulation and hydrography of {H}alifax Harbour using a multi-nested coastal ocean circulation model}.
+\newblock \bibinfo{journal}{Ocean Dynamics}
+\bibinfo{volume}{61},\bibinfo{pages}{951--976}.
+\newblock \DOIprefix\doi{10.1007/s10236-011-0398-3}.
+%Type = Article
+\bibitem[{Sun et~al.(2013)Sun, Chen, Beardsley, Xu, Qi, Lin}]{Sun:2013}
+\bibinfo{author}{Sun, Y.}, \bibinfo{author}{Chen, C.}, \bibinfo{author}{Beardsley, R.}, \bibinfo{author}{Xu, Q.}, \bibinfo{author}{Qi, J.}, \bibinfo{author}{Lin, H.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Impact of current-wave interaction on storm surge simulation: {A} case study for Hurricane {B}ob}
+\newblock \bibinfo{journal}{JGR-Oceans}, \bibinfo{volume}{118},\bibinfo{pages}{2685--2701}.
+\newblock \DOIprefix\doi{10.1002/jgrc.20207}
+%Type = Article
+\bibitem[{Verlaan et~al.(2005)Verlaan, Zijderveld, de~Vries and
+  Kroos}]{Verlaan:2005}
+\bibinfo{author}{Verlaan, M.}, \bibinfo{author}{Zijderveld, A.},
+  \bibinfo{author}{de~Vries, H.}, \bibinfo{author}{Kroos, J.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Operational storm surge forecasting in the
+  {N}etherlands: developments in the last decade}.
+\newblock \bibinfo{journal}{Philosopical Transactions of the Royal Society}
+  \bibinfo{volume}{363}, \bibinfo{pages}{1441--1453}.
+\newblock \DOIprefix\doi{10.1098/rsta.2005.1578}.
+%Type = Article
+\bibitem[{Werner et~al.(2009)Werner, Cranston, Harrison, Whitfield and
+  Schellekens}]{Werner:2009}
+\bibinfo{author}{Werner, M.}, \bibinfo{author}{Cranston, M.},
+  \bibinfo{author}{Harrison, T.}, \bibinfo{author}{Whitfield, D.},
+  \bibinfo{author}{Schellekens, J.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Recent developments in operational flood forecasting
+  in {E}ngland, {W}ales and {S}cotland}.
+\newblock \bibinfo{journal}{Meteorological applications}
+  \DOIprefix\doi{10.1002/met.124}.
+%Type = Article
+\bibitem[{Zadra et~al.(2003)Zadra, Roch, Laroche, and Charron}]{Zadra:2003}
+\bibinfo{author}{Zadra, A.}, \bibinfo{author}{Roch, M.}, \bibinfo{author}{Laroche, S.}, and \bibinfo{author}{Charron, M.}, \bibinfo{year}{2003}, \bibinfo{year}{2003}: \bibinfo{title}{The subgrid-scale
+  orographic blocking parametrization of the {GEM} model}.
+  \\bibinfo{journal}{Atmos.-Ocean}, \bibinfo{volume}{41~(2)}, \bibinfo{pages}{155--170}.

@@ -7,6 +7,7 @@ from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
 from xml.dom import expatbuilder
 from string import ascii_lowercase
+from typing import List
 
 
 logging.basicConfig()
@@ -121,6 +122,46 @@ class BibItem(object):
         s = f"(id={self.get_tag()})-->{s}"
 
         return s
+
+    def to_bibtex(self) -> dict:
+        """Convert to bibtex fomat
+        """
+        the_id = self.authors[0].last_name
+        the_id = f"{the_id}:{self.year}"
+
+        the_authors = " and ".join([
+            str(a) for a in self.authors
+        ])
+
+        bib_dict = {
+            "ID": the_id, 
+            "year": self.year, 
+            "author": the_authors,
+            "title": self.title,
+            "journal": self.journal,
+            "pages": self.pages,
+            "city": self.address,
+            "doi": self.doi,
+            "volume": self.volume,
+            "institution": self.institution,
+            "publisher": self.publisher,
+            "url": self.url,
+            "ENTRYTYPE": self.get_reference_type()
+        }
+        return bib_dict
+
+
+    
+    def get_reference_type(self):
+        """Type of the reference journal article or else
+        """
+        if len(self.journal) > 0:
+            return "article"
+        elif len(self.book_title) > 0 and len(self.title) > 0:
+            return "book"
+        else:
+            return "report"
+
 
     def to_word_xml(self):
         el = Element("b:Source")
@@ -324,9 +365,10 @@ def clean(line):
     return line
 
 
-def parse_citations(fpath: Path):
+def parse_citations(fpath: Path) -> List[BibItem]:
     """
     :param fpath: path to the initial file containing citations in tex format
+    :rtype: List[BibItem]
     """
 
     bibs = []
